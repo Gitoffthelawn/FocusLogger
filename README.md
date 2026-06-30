@@ -6,9 +6,9 @@ In game, mouse and keyboard could start temporary stop responding if other progr
 
 # Download
 
-Digitally Signed Application v1.3.10 (2026-06-07)
+Digitally Signed Application v1.3.12 (2026-06-30)
 
-[Download - JocysCom.FocusLogger.zip](https://github.com/JocysCom/FocusLogger/releases/download/1.3.6/JocysCom.FocusLogger.zip)
+[Download - JocysCom.FocusLogger.zip](https://github.com/JocysCom/FocusLogger/releases/download/1.3.12/JocysCom.FocusLogger.zip)
 
 # System Requirements
 
